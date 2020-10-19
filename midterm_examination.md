@@ -54,7 +54,7 @@ this examination. Please note that, due to the ongoing global pandemic, Sections
 
 ### (2 Points) Web browser cache
 
-## (10 Points) Please define the following terms related to web sites
+## (10 Points) Please define the following terms related to web sites, giving at least three examples
 
 ### (5 Points) HTTPS
 
@@ -80,7 +80,8 @@ this examination. Please note that, due to the ongoing global pandemic, Sections
 github.com.             1       IN      A       140.82.114.3
 ```
 
-What is the IP address of GitHub's servers? How did you know?
+What is the IP address of GitHub's servers? How did you know? Can you explain
+anything else in this output?
 
 ### (5 Points) Output from the `mtr` command
 
@@ -101,11 +102,11 @@ What is the IP address of GitHub's servers? How did you know?
 ```
 
 Does data transmission from the client to the server exhibit a lot of
-variability? How did you know?
+variability? How did you know? Can you explain anything else in this output?
 
 ## (10 Points) Define and explain the three "cascading principles" called "inheritance", "specificity", and "location"
 
-## (10 Points) Write some CSS source code that explains how to create:
+## (10 Points) Write some HTML source code that explains how to create:
 
 ### (5 Points) An ordered list with three list items
 
