@@ -15,8 +15,8 @@ You must retype the sentence here.
 
 - You must adhere to the Honor Code throughout your completion of the examination
 - The examination is closed notes, closed book, and closed online resources
-- You may use your laptop computer and its text editor and Python programming tools
-- You may not refer to the Python source code that you wrote during the semester
+- You may use your laptop computer and its text editor and web programming tools
+- You may not refer to the HTML or CSS source code that you wrote during the semester
 - You may not refer to the technical writing that you completed during the semester
 
 **IMPORTANT**: All students in this course are obligated to adhere to the
