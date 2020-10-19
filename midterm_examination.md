@@ -9,7 +9,7 @@ You must retype the sentence here.
 ## Dates for the Final Examination
 
 - **Examination Released**: 9:00 AM on Monday, October 19, 2020
-- **Examination Due**: 11:59 pm on Wednesday, October 21, 2020
+- **Examination Due**: 11:59 PM on Wednesday, October 21, 2020
 
 ## Honor Code for the Final Examination
 
